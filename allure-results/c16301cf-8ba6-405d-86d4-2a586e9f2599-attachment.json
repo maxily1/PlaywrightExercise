@@ -1,0 +1,12 @@
+{
+  "auth": {
+    "mode": "guest",
+    "username": "test@example.com",
+    "password": "password123"
+  },
+  "search": {
+    "query": "shoes",
+    "max_price": 1000,
+    "limit": 5
+  }
+}

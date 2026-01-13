@@ -1,0 +1,5 @@
+{
+  "query": "shoes",
+  "max_price": 1000,
+  "limit": 5
+}

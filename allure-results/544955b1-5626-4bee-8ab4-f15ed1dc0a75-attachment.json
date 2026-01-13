@@ -1,0 +1,8 @@
+{
+  "cart_total": "2203.24 ILS",
+  "budget_per_item": "1000 ILS",
+  "number_of_items": 5,
+  "max_allowed_total": "5000 ILS",
+  "within_budget": true,
+  "difference": "2796.76 ILS"
+}
